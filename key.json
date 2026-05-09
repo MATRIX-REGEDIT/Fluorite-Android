@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Owner"
+    },
+    "Saiful-Fluorite": {
+      "hwid": "4AB92F230B9D90AA",
+      "expireDate": "2026-05-17",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Admin"
     }
   }
 }
